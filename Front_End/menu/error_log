@@ -1,0 +1,184 @@
+[04-Mar-2023 20:43:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 28
+[04-Mar-2023 20:44:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 28
+[04-Mar-2023 20:46:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 28
+[04-Mar-2023 20:57:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Mar-2023 21:02:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[05-Mar-2023 06:40:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[08-Mar-2023 22:24:46 UTC] PHP Warning:  getimagesize(1678281999.jpeg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 4
+[08-Mar-2023 22:24:46 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 15
+[08-Mar-2023 22:26:41 UTC] PHP Warning:  getimagesize(..media/images/6/1678281999.jpeg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 4
+[08-Mar-2023 22:26:41 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 15
+[08-Mar-2023 22:26:41 UTC] PHP Warning:  file_put_contents(..media/images/6/1678281999.jpeg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 25
+[08-Mar-2023 22:27:00 UTC] PHP Warning:  getimagesize(..media/images/6/1678281999.jpeg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 4
+[08-Mar-2023 22:27:00 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 15
+[08-Mar-2023 22:27:00 UTC] PHP Warning:  file_put_contents(..media/images/6/1678281999.jpeg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 25
+[08-Mar-2023 22:29:20 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, string given in /home/menukoir/public_html/menu/vase_khodam.php on line 6
+[08-Mar-2023 22:47:21 UTC] PHP Warning:  require_once(function.resize.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:47:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.resize.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:47:50 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:47:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:47:51 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:47:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:23 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:34 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:35 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:48:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:49:04 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:49:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:49:06 UTC] PHP Warning:  require_once(lib.php): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:49:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/menukoir/public_html/menu/vase_khodam.php on line 3
+[08-Mar-2023 22:49:29 UTC] PHP Warning:  Division by zero in /home/menukoir/public_html/menu/lib.php on line 127
+[08-Mar-2023 22:49:30 UTC] Tried to execute : convert '/home/menukoir/public_html' -resize 'x300' -size 'NANx300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/d41d8cd98f00b204e9800998ecf8427e_w300_h300_comp.', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:49:31 UTC] PHP Warning:  Division by zero in /home/menukoir/public_html/menu/lib.php on line 127
+[08-Mar-2023 22:49:31 UTC] Tried to execute : convert '/home/menukoir/public_html' -resize 'x300' -size 'NANx300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/d41d8cd98f00b204e9800998ecf8427e_w300_h300_comp.', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:49:46 UTC] PHP Warning:  Division by zero in /home/menukoir/public_html/menu/lib.php on line 127
+[08-Mar-2023 22:49:46 UTC] Tried to execute : convert '/home/menukoir/public_html' -resize 'x300' -size 'NANx300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/d41d8cd98f00b204e9800998ecf8427e_w300_h300_comp.', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:50:02 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:50:05 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:50:29 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:50:31 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:51:06 UTC] Tried to execute : convert '../media/images/6/1678202461.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/28e6f2375783da33bc670d1e934b8b6c_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:51:44 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:09 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:09 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:10 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:11 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:55 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:56 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:52:57 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:14 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:14 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:15 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x240' -size '240x240' xc:'#ff0000' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w240_h240.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:15 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize '300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_cp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:15 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_sc.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:15 UTC] PHP Warning:  file_put_contents(cache/remote/2934973285_fa4761c982.jpg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/function.resize.php on line 69
+[08-Mar-2023 22:54:15 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:54:16 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_comp_70.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x240' -size '240x240' xc:'#ff0000' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w240_h240.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize '300' -size '300x300' xc:'transparent' +swap -gravity center -composite -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_cp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -resize 'x300' -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_h300_sc.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:46 UTC] PHP Warning:  file_put_contents(cache/remote/2934973285_fa4761c982.jpg): failed to open stream: No such file or directory in /home/menukoir/public_html/menu/function.resize.php on line 69
+[08-Mar-2023 22:55:46 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_comp.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 22:55:47 UTC] Tried to execute : convert '../media/images/6/1678281999.jpeg' -thumbnail 300  -quality '80' 'cache/6be0b070c28cfa752ced1f3363e456b1_w300_comp_70.jpeg', return code: 1, output: Array
+(
+)
+
+[08-Mar-2023 23:02:51 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:03:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:04:29 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:05:03 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:05:55 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:06:22 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[08-Mar-2023 23:18:10 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/menukoir/public_html/menu/vase_khodam.php on line 18
+[18-Mar-2023 17:46:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[22-Mar-2023 11:43:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[22-Mar-2023 11:43:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[22-Mar-2023 11:43:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[22-Mar-2023 11:43:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:02:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:34:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:34:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:57:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:57:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 09:57:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 10:29:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 15:28:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 16:51:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[04-Apr-2023 16:51:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[17-May-2023 05:41:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[21-May-2023 18:29:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[21-May-2023 18:30:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[21-May-2023 18:30:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[30-May-2023 18:51:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25
+[30-May-2023 18:51:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/menukoir/public_html/menu/index.php on line 25

@@ -1,0 +1,97 @@
+@font-face{font-family:IRANSans;font-style:normal;font-weight:300;src:url(/fonts/IRANSansWeb_Light.eot);src:url(/fonts/IRANSansWeb_Light.eot?#iefix) format("embedded-opentype"),url(/fonts/IRANSansWeb_Light.woff2) format("woff2"),url(/fonts/IRANSansWeb_Light.woff) format("woff"),url(/fonts/IRANSansWeb_Light.ttf) format("truetype")}
+@font-face{
+	font-family:icons;
+	src:url(/fonts/icons.eot);
+	src:url(/fonts/icons.ttf);
+}
+@font-face{
+	font-family:BTitr;
+	src:url(/fonts/BTitr.otf);
+	src:url(/fonts/BTitr.ttf);
+}
+@font-face {
+    font-family: 'yekan';
+    src: url(/fonts/web_Yekan.woff);
+    src: url(/fonts/web_Yekan.eot?#iefix) format("embedded-opentype"),url(/fonts/web_Yekan.woff) format("woff"),url(/fonts/web_Yekan.ttf) format("truetype"),url(/fonts/web_Yekan.svg#BYekan) format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	font-family:myBnazanin;
+	src:url(/fonts/B-NAZANIN.TTF);
+}
+:root{
+	--theme-kamrang-color:#f7f7f7;
+	--abi-kamrang:#e9faff;
+	--mainColor-asli-color:#38EDFF;
+	--mainColor-second-color:#EE384E;
+	
+	--whiteback-color : #fff;
+	--whitegray-color : #f9f9f9;
+	--whitergray-color : #fbfbfb;
+	--grayKamrang-color:#b7b7b7;
+	--grayKamrang-tar-color:#f1f1f1;
+	--grayKamrang-tire-color:#eaf8fb;
+	--red-color:#ff4444;
+	--sabz-color:#67f1ff;
+	
+	/* body background color */
+	--body-color:white;
+	
+	/*vase resid chap*/
+	--box-color:#91dafd;
+	--box-title-kol-color:#61b6de;
+	--back-color:#ebf6fb;
+	
+	/* vase menu */
+    --mainColor-asli-porang: #21272D;
+    --mainColor-asli-kmPorang: #2e3338;
+    --mainColor-asli-kmTarPorang: #1d9ed6;
+    --mainColor-asli-hover: #383e44;
+	
+	/*vase roydad row*/
+    --corner-green: #8df195;    
+    --corner-red: #ffa3a3;
+    
+    --back-green: #d5ffdd;
+    --back-red: #ffdede;
+    
+    /* vase sms */
+    --sms-asli-color:#fff2b1;
+    --sms-porang-color:#c1a100;
+    --back-zard:#fff8d6;
+	
+}
+@page{
+    size: a4;
+    margin: 2mm;
+}
+@media print{
+    
+    @page{
+        margin: 0cm;
+    }
+    
+    body {
+        background:white;
+    }
+     
+    div{
+        break-inside: avoid;
+    }
+
+   .pagebreak{ 
+        /*page-break-before: always; */
+        clear: both;
+        page-break-after: always;
+    }
+    
+    .notPrint{
+        display: none;
+    }
+    
+    
+    #notification{
+    	display:none !important;
+    }
+}

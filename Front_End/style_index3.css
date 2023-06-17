@@ -1,0 +1,71 @@
+:root{
+	
+	--text_menu_color:#6F6F86;
+	--roshan-mid-color:#fdf9f0;
+	--roshan_back-color:#fffcf4;
+}
+#top_bar_menu_panel_maghaze{
+    width: 100%;
+    height: 50px;
+    background: #f9f5ed;
+    border-bottom: 1px solid var(--Gray-Cadr-color);	
+}
+.btn_menu_panel_maghaze{
+	width:180px;
+	padding-top:15px;
+	height:35px;
+	border-left:1px solid var(--Gray-Cadr-color);
+	cursor:pointer;
+}
+.btn_menu_panel_maghaze .text{
+	font-size:11pt;
+	color:var(--text_menu_color);
+}
+.btn_menu_panel_maghaze img{	
+	width:20px;
+	margin-top:-2px;
+	margin-left:7px;
+}
+.comming_soon_menu_maghaze{
+	width:180px;
+	padding-top:15px;
+	height:35px;
+	border-left:1px solid var(--Gray-Cadr-color);
+	position:relative;
+}
+.comming_soon_menu_maghaze .text{
+	font-size:11pt;
+	color:var(--text_menu_color);
+}
+.comming_soon_menu_maghaze img{	
+	width:20px;
+	margin-top:-2px;
+	margin-left:7px;
+}
+.comming_soon_menu_maghaze:after{
+	content:"به زودی";
+	position:absolute;
+	top:2px;
+	left:5px;
+	font-family: IRANSans,tahoma,sans-serif;
+	font-size:6pt;
+	color:var(--text_menu_color);
+	direction:rtl;
+}
+.panel_maghaze_btn{
+	width:150px;
+	height:34px;
+	padding-top:9px;
+	background:var(--score-Asli-color);
+	border-radius:5px;
+	margin:30px;
+	animation: animation 5s infinite;
+	animation-delay:2s;
+}
+.panel_maghaze_btn:hover{
+	box-shadow:0px 2px 10px -5px #6b6b6b
+}
+.panel_maghaze_btn .text{
+	color:white;
+	font-size:11.2pt;
+}
