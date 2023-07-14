@@ -1,32 +1,26 @@
 ## Describe and Implementation method project
 
-
 * Develop ToDo List Web Application with django and django Rest FrameWork
 
 
-```
-Add swagger to main url
-```
+* Add swagger to main url
 
-```
-Create register and login with jwt(best practice)
 
-```
+* Create register and login(jwt)(best practice)
 
-```
-Create main app in todolist 
-```
 
-```
-Connect project to postgresSQL
-```
+* Create main app in todolist 
+
+
+* Connect project to postgresSQL
+
 
 
 ## ToDoList project setup
 
 1- go to directory project
 ```
-cd Project_name
+cd Back_End
 ```
 
 2- SetUp venv
