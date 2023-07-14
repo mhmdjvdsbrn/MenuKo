@@ -1,7 +1,8 @@
 ## Describe and Implementation method project
-```
-Develop ToDo List Web Application with django and django Rest FrameWork
-```
+
+
+* Develop ToDo List Web Application with django and django Rest FrameWork
+
 
 ```
 Add swagger to main url
